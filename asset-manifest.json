@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-first-website-app-try-wosnpm%20install%20--save%20gh-pages/static/css/main.7b2d50a6.css",
+    "main.js": "/my-first-website-app-try-wosnpm%20install%20--save%20gh-pages/static/js/main.4ff6034b.js",
+    "static/js/787.d727abdb.chunk.js": "/my-first-website-app-try-wosnpm%20install%20--save%20gh-pages/static/js/787.d727abdb.chunk.js",
+    "index.html": "/my-first-website-app-try-wosnpm%20install%20--save%20gh-pages/index.html",
+    "main.7b2d50a6.css.map": "/my-first-website-app-try-wosnpm%20install%20--save%20gh-pages/static/css/main.7b2d50a6.css.map",
+    "main.4ff6034b.js.map": "/my-first-website-app-try-wosnpm%20install%20--save%20gh-pages/static/js/main.4ff6034b.js.map",
+    "787.d727abdb.chunk.js.map": "/my-first-website-app-try-wosnpm%20install%20--save%20gh-pages/static/js/787.d727abdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2d50a6.css",
+    "static/js/main.4ff6034b.js"
+  ]
+}
